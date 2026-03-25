@@ -1,5 +1,7 @@
 please dont use this ever just make your own atp
+
 I'm pretty sure its broken and this was like the first thing I ever made with js so its horrible, ill probably never make another one because I dont even play the game anymore
+
 I literally didn't know how to use a js object so for some god forsaken reason I tried to turn the talents JSON into an array
 
 everything is horrible spaghetti code
